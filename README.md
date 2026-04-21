@@ -1,4 +1,4 @@
-# Presupuesto-para-objetivo
+# Dashboard de Control Presupuestal y Seguimiento Financiero | Power BI, DAX, Excel, Google Forms
 
 Un repositorio para ver la guía de como se elaboro un archivo '.pbix' con fines educativos, sobre los datos estadísticos de un presupuesto para algún objetivo, que en el ejemplo fue para una moto 'Pulsar NS125'.
 #  Análisis de Presupuesto (Power BI)
