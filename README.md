@@ -25,13 +25,9 @@ Elaboraremos 2 Formularios, uno para los ingresos y el segundo para los gastos.
 Ganancias: 
 <img width="1489" height="834" alt="image" src="https://github.com/user-attachments/assets/34d32387-9bd0-44c6-93b5-d88183e61fec" />
 
-https://docs.google.com/forms/d/e/1FAIpQLSeE3a5VRLVgSeJLckOQor6E0jPTbLPx6BOWD2_KaCbxUd7Nvw/viewform?usp=dialog
-
 Gastos:
 
 <img width="530" height="1423" alt="image" src="https://github.com/user-attachments/assets/7c5d30ec-dcf0-4242-9d15-b15cfabb6fc6" />
-
-https://docs.google.com/forms/d/e/1FAIpQLScseajcaVefzoQ6J9-1O-cJqCLGNcDLx1tQ9UKyzwW9cnJtZQ/viewform?usp=sharing&ouid=117298393876020992922
 
 ### 📝 Estructura de los Formularios 
 
